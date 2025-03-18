@@ -169,9 +169,9 @@ void Error_Handler(void)
 
 ## Output screen shots of proteus  :
 
-![image](https://github.com/user-attachments/assets/c0ab867f-56e3-4b15-aff4-85bfe36a0412)
-![image](https://github.com/user-attachments/assets/5731645f-186d-4ecf-8b39-b44a54d66a1e)
 
+![image](https://github.com/user-attachments/assets/5731645f-186d-4ecf-8b39-b44a54d66a1e)
+![image](https://github.com/user-attachments/assets/c0ab867f-56e3-4b15-aff4-85bfe36a0412)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
